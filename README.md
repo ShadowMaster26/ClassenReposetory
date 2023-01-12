@@ -1,3 +1,1 @@
-# ClassenReposetory
-För alla
 🗿
