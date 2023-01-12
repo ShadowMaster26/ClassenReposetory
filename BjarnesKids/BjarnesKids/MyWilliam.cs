@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BjarnesKids
 {
-    internal class MyProgram
+    internal class MyWilliam
     {
     }
 }
