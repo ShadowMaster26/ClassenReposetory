@@ -1,0 +1,15 @@
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\Elis2.csproj.AssemblyReference.cache
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\Elis2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\Elis2.AssemblyInfoInputs.cache
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\Elis2.AssemblyInfo.cs
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\Elis2.csproj.CoreCompileInputs.cache
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\bin\Debug\net6.0\Elis2.exe
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\bin\Debug\net6.0\Elis2.deps.json
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\bin\Debug\net6.0\Elis2.runtimeconfig.json
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\bin\Debug\net6.0\Elis2.dll
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\bin\Debug\net6.0\Elis2.pdb
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\Elis2.dll
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\refint\Elis2.dll
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\Elis2.pdb
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\Elis2.genruntimeconfig.cache
+C:\Users\elis.gustafsson\Documents\GitHub\ClassenReposetory\Elis2\Elis2\obj\Debug\net6.0\ref\Elis2.dll

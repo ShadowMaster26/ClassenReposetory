@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elis2", "Elis2\Elis2.csproj", "{56D3F6AB-BE3B-4ACC-B686-4D84DE7B432A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D3F6AB-BE3B-4ACC-B686-4D84DE7B432A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D3F6AB-BE3B-4ACC-B686-4D84DE7B432A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D3F6AB-BE3B-4ACC-B686-4D84DE7B432A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D3F6AB-BE3B-4ACC-B686-4D84DE7B432A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02274AFE-FC5F-4EC0-8381-D40D613E48A0}
+	EndGlobalSection
+EndGlobal
