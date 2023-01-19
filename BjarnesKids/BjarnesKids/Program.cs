@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using BjarnesKids;
+{
+    MyWilliam myWilliam = new MyWilliam();
+    myWilliam.Run();
+}
