@@ -1,0 +1,15 @@
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\Bjarneslektion.csproj.AssemblyReference.cache
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\Bjarneslektion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\Bjarneslektion.AssemblyInfoInputs.cache
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\Bjarneslektion.AssemblyInfo.cs
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\Bjarneslektion.csproj.CoreCompileInputs.cache
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\bin\Debug\net6.0\Bjarneslektion.exe
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\bin\Debug\net6.0\Bjarneslektion.deps.json
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\bin\Debug\net6.0\Bjarneslektion.runtimeconfig.json
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\bin\Debug\net6.0\Bjarneslektion.dll
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\bin\Debug\net6.0\Bjarneslektion.pdb
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\Bjarneslektion.dll
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\refint\Bjarneslektion.dll
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\Bjarneslektion.pdb
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\Bjarneslektion.genruntimeconfig.cache
+C:\Users\wile.ostlingsallstr\Documents\GitHub\ClassenReposetory\Bjarneslektion\Bjarneslektion\obj\Debug\net6.0\ref\Bjarneslektion.dll
