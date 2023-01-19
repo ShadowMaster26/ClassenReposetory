@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using BjarnesKids;
+{
+    MyZebastian myProgram;
+    myProgram = new MyZebastian();
+    myProgram.Run();
+}
