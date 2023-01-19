@@ -1,0 +1,15 @@
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.exe
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.deps.json
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.runtimeconfig.json
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.dll
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.pdb
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.csproj.AssemblyReference.cache
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.AssemblyInfoInputs.cache
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.AssemblyInfo.cs
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.csproj.CoreCompileInputs.cache
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.dll
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\refint\BjarnesKids.dll
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.pdb
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.genruntimeconfig.cache
+C:\Users\zebastian.kapteijnf\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\ref\BjarnesKids.dll
