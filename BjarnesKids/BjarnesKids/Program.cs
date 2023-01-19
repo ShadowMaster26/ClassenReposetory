@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using BjarnesKids;
+
+
+{
+    MyCarl myCarl;
+    myCarl = new MyCarl();
+    myCarl.Run();
+}
+
