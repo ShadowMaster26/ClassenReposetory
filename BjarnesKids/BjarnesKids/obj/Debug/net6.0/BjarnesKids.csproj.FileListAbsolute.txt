@@ -1,0 +1,15 @@
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.csproj.AssemblyReference.cache
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.AssemblyInfoInputs.cache
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.AssemblyInfo.cs
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.csproj.CoreCompileInputs.cache
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.exe
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.deps.json
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.runtimeconfig.json
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.dll
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\bin\Debug\net6.0\BjarnesKids.pdb
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.dll
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\refint\BjarnesKids.dll
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.pdb
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\BjarnesKids.genruntimeconfig.cache
+C:\Users\jonah.johansson1\Documents\GitHub\ClassenReposetory\BjarnesKids\BjarnesKids\obj\Debug\net6.0\ref\BjarnesKids.dll
