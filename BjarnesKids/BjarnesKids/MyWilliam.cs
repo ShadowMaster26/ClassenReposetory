@@ -41,8 +41,8 @@ namespace BjarnesKids
                 string belowOne = "below one";
                 return belowOne;
             }
-        }
 
+        } 
         public void CWString(string inputString)
         {
             Console.WriteLine(inputString);
